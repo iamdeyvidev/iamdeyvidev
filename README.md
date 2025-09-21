@@ -28,7 +28,7 @@ Focused on **clean, maintainable code** and continuous learning.
 - BSc. in Systems Engineering (3rd Year)  
 - Focused on **Java, Spring Boot, Databases, Web Development**.  
 
-![César Vallejo University](https://upload.wikimedia.org/wikipedia/commons/2/28/Universidad_Cesar_Vallejo_logo.png) <!-- Imagen del logo universidad -->
+![César Vallejo University]([https://upload.wikimedia.org/wikipedia/commons/2/28/Universidad_Cesar_Vallejo_logo.png](https://camo.githubusercontent.com/cde63a73386a5a85d2f5d0fa7344746402e1d12e0f9b3da0248b542f5ed7e4aa/68747470733a2f2f7365656b766563746f72732e636f6d2f66696c65732f646f776e6c6f61642f756e6976657273696461642d63657361722d76616c6c656a6f2d6c6f676f2d30312e6a7067)) <!-- Imagen del logo universidad -->
 
 ---
 
