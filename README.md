@@ -4,7 +4,6 @@ Welcome to my GitHub profile! Let's code, play, and build awesome things.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-linkedin/)
 
 ---
-https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg
 
 ## 📖 About Me
 💻 **Junior Backend Developer** passionate about building **scalable software solutions** with **Java Spring Boot** and **PostgreSQL**.  
@@ -38,8 +37,8 @@ Focused on **clean, maintainable code** and continuous learning.
 ---
 
 ## 🎯 Contact Me
-- ✉️ Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/tu-linkedin/)  
+- ✉️ Email: deyviimanol@gmail.com
+- 🔗 LinkedIn: [linkedin.com/in/tu-linkedin](https://www.linkedin.com/in/deyviruizroberto/)  
 
 ---
 
