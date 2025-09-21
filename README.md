@@ -65,5 +65,5 @@ BSc. in Systems Engineering (3rd Year)
 ---
 
 ## 📬 Contact Me
-- 📧 Email: tuemail@correo.com  
+- 📧 Email: deyviimanol@gmail.com
 - 📍 Location: Lima, Perú
