@@ -1,6 +1,10 @@
 <!-- Encabezado animado -->
+<!-- Banner animado de presentación -->
+<h1 align="center">Hi there! 👋</h1>
+<h2 align="center">I'm Deyvi Imanol Ruiz</h2>
+
 <p align="center">
-  <img src="https://camo.githubusercontent.com/6aa35ebf05b70905d33aa4ef80e0331d7aa39bee45a39c571964997ed1f36ca0/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d2f3f666f6e743d526f626f746f267765696768743d3930302673697a653d3430267643656e7465723d747275652677696474683d353030266865696768743d3730266475726174696f6e3d3430303026636f6c6f723d303042464646266c696e65733d48692b5468657265212bf09f918b3b2b49276d2b427261696768746f6e2b506169636f213b" alt="Hello Deyvi Ruiz Roberto" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Junior+Backend+Developer;Systems+Engineering+Student;Java+%7C+Spring+Boot+%7C+PostgreSQL;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
