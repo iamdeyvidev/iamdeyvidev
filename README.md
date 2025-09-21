@@ -28,11 +28,13 @@ Currently in my 3rd year pursuing a BSc. in **Systems Engineering** at César Va
 Focused on Java, Spring Boot, Databases, and Web Development through academic and personal projects.
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/cde63a73386a5a85d2f5d0fa7344746402e1d12e0f9b3da0248b542f5ed7e4aa/68747470733a2f2f7365656b766563746f72732e636f6d2f66696c65732f646f776e6c6f61642f756e6976657273696461642d63657361722d76616c6c656a6f2d6c6f676f2d30312e6a7067" width="150" />
+  <img src="https://camo.githubusercontent.com/cde63a73386a5a85d2f5d0fa7344746402e1d12e0f9b3da0248b542f5ed7e4aa/68747470733a2f2f7365656b766563746f72732e636f6d2f66696c65732f646f776e6c6f61642f756e6976657273696461642d63657361722d76616c6c656a6f2d6c6f676f2d30312e6a7067" width="120" />
 </p>
 
-**César Vallejo University**  
-BSc. in Systems Engineering (3rd Year)  
+<p align="center">
+  <b>César Vallejo University</b><br>
+  BSc. in Systems Engineering (3rd Year)
+</p>
 
 ---
 
