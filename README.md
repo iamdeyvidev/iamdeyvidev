@@ -5,17 +5,6 @@ Welcome to my GitHub profile! Let's code, play, and build awesome things.
 
 ---
 
-## 🐍 Snake Game Challenge
-<details>
-<summary>Click to play 🎮</summary>
-
-![Snake](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
-
-> Can you make the snake grow without hitting the walls? 🐍💥
-</details>
-
----
-
 ## 📖 About Me
 💻 **Junior Backend Developer** passionate about building **scalable software solutions** with **Java Spring Boot** and **PostgreSQL**.  
 I create **RESTful APIs**, manage **databases**, and integrate **React** for frontend solutions.  
@@ -27,8 +16,6 @@ Focused on **clean, maintainable code** and continuous learning.
 - 🎓 **César Vallejo University**  
 - BSc. in Systems Engineering (3rd Year)  
 - Focused on **Java, Spring Boot, Databases, Web Development**.  
-
-![César Vallejo University(https://lidera.org.pe/wp-content/uploads/2025/04/ucv-logo-vallejo-psicologia-1024x736.jpg) <!-- Imagen del logo universidad -->
 
 ---
 
