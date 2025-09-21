@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Deyvi+Imanol+Ruiz" alt="Typing SVG" />
 </p>
 
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Junior+Backend+Developer;Systems+Engineering+Student;Java+%7C+Spring+Boot+%7C+PostgreSQL;Always+learning+new+things" alt="Typing SVG" />
 </p>
